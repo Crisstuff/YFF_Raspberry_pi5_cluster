@@ -1,8 +1,8 @@
 # YFF_Raspberry_pi5_cluster
 
-
+## Hva er planen min for dette prosjektet
 
 
 
 ### Relevante linker:
-* [rassberiy](https://www.youtube.com/watch?v=tDENgLiJSh0)
+* [Creating a Supercomputer with a Raspberry Pi 5 Cluster](https://www.youtube.com/watch?v=tDENgLiJSh0)
